@@ -11,7 +11,7 @@ I'm Will from USA and I have been working with technologies for a very long time
 
 1. Ecommerce React Site
 2. JavaScript/CSS Site
-3. [Reactjs Shoe Processing Site] (https://shoes-react-app.netlify.app/  "Portfolio")
+3. [Reactjs Shoe Processing Site] (https://shoes-react-app.netlify.app/)
 
 --------------------------------------------------------
 
