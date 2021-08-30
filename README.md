@@ -46,3 +46,7 @@ Tables of Knowledge
 ---------------------------
 
 > Consistency can take things a long ways
+
+
+---------------------------
+![Deploy to Azure](https://aka.ms/deploytoazurebutton)
